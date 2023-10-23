@@ -1,0 +1,17 @@
+{
+  "about.qmd": {
+    "about.html": "7489c295"
+  },
+  "index.qmd": {
+    "index.html": "0e3f1818"
+  },
+  "NumericalDataPrediction.ipynb": {
+    "NumericalDataPrediction.html": "8e4b79e0"
+  },
+  "ML/NumericalDataPrediction.ipynb": {
+    "NumericalDataPrediction.html": "ad6efa33"
+  },
+  "ML/dd.qmd": {
+    "dd.html": "edf7a098"
+  }
+}

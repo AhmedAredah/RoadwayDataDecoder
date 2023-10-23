@@ -1,0 +1,11 @@
+{
+  "hash": "92f1060e4685f0ae6c6ef35b0541045b",
+  "result": {
+    "markdown": "---\ntitle: Untitled\nformat: html\neditor: visual\n---\n\n## Quarto\n\nwhere: \n\\- $y_i$ is the observed value of the dependent variable for the $i^{th}$ observation. \n\n\\- $x_1, x_2, \\dots, x_n$ are the values of the independent variables for the $i^{th}$ observation. \n\n\\- $\\beta_0, \\beta_1, \\beta_n$ are the regression coefficients, with $\\beta_0$ being the y-intercept. \n\n\\- $\\epsilon_i$ is the error term for the $i^{th}$ observation, capturing the difference between the observed value and the value predicted by the model.\n\nwhere:\n\n\\- \\$y_i\\$ is the observed value of the dependent variable for the \\$i\\^{th}\\$ observation.\n\n\\- \\$x_1, x_2, \\\\dots, x_n\\$ are the values of the independent variables for the \\$i\\^{th}\\$ observation.\n\n\\- \\$\\\\beta_0, \\\\beta_1, \\\\beta_n\\$ are the regression coefficients, with \\$\\\\beta_0\\$ being the y-intercept.\n\n\\- \\$\\\\epsilon_i\\$ is the error term for the \\$i\\^{th}\\$ observation, capturing the difference between the observed value and the value predicted by the model.\n\n",
+    "supporting": [
+      "dd_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}
